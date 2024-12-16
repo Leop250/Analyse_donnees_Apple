@@ -1,10 +1,6 @@
 # Analyse_donnes_Apple
 
 
-
-
-Voici une version adaptée pour GitHub :
-
 Projet d'analyse et de prédiction avec un dataset fictif Apple
 
 J’ai récemment publié sur GitHub un projet d’analyse de données basé sur un dataset fictif d'Apple. Ce projet met en avant l’analyse des indicateurs de performance des clients, des produits, des employés et des magasins, ainsi que des modèles de prédiction de ventes.
